@@ -1,9 +1,5 @@
-### Hi there 👋
+### 🏄‍♂️ Coding King👋
 
-
-**nicksonkennedy/nicksonkennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a social media application using ReactJs & NodeJs...
 - 🌱 I’m currently learning React Native for mobile apps development...
