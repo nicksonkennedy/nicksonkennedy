@@ -9,3 +9,6 @@
 - 📫 How to reach me: kennickson08@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Coding till death <3
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksonkennedy)](https://github.com/anuraghazra/github-readme-stats)
