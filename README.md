@@ -21,8 +21,5 @@ I'm a web developer who is passionate about making contributing to open-source m
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksonkennedy)](https://github.com/anuraghazra/github-readme-stats)
-## 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksonkennedy&show_icons=true)  
-##
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicksonkennedy)  
+
 
